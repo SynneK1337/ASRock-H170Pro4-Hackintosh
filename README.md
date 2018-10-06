@@ -19,10 +19,10 @@ Backup of my Hackintosh' s ESP Partition.
 * Microphone (built in webcam)
 * CPU Power Managament
 * HDMI Audio
+* USB 3.0
 
 # What doesn' t work?
 * Sleep
-* USB 3.0
 * FaceTime and iMessage
 
 # What wasn' t tested?
