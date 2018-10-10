@@ -21,9 +21,9 @@ Backup of my Hackintosh' s ESP Partition.
 * CPU Power Managament
 * HDMI Audio
 * USB 3.0
+* Sleep
 
 # What doesn' t work?
-* Sleep
 * FaceTime and iMessage
 
 # What wasn' t tested?
