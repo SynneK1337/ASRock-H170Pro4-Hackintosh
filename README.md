@@ -10,6 +10,7 @@ Backup of my Hackintosh' s ESP Partition.
 * WiFi: **TP-LINK WN-822N V3** *(RTL8192CU)*
 * LAN: **Intel I219-v**
 * Webcam: **Creative Live! Cam Sync HD VF0770**
+
 # What works?
 * Boot
 * QE/CI
@@ -26,4 +27,4 @@ Backup of my Hackintosh' s ESP Partition.
 * FaceTime and iMessage
 
 # What wasn' t tested?
-* Mini-Jack 3,5mm
+* Mini-Jack 3,5mm (But it should work)
