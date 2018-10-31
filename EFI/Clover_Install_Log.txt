@@ -1,6 +1,6 @@
 
-Clover EFI installer log - Wed Oct 10 22:01:08 CEST 2018
-Installer version: v2.4k r4703 EFI bootloader
+Clover EFI installer log - Tue Oct 30 20:18:00 CET 2018
+Installer version: v2.4k r4726 EFI bootloader
 ======================================================
 /dev/disk0 (internal, physical):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
@@ -13,10 +13,10 @@ Installer version: v2.4k r4703 EFI bootloader
    #:                       TYPE NAME                    SIZE       IDENTIFIER
    0:      APFS Container Scheme -                      +127.8 GB   disk1
                                  Physical Store disk0s3
-   1:                APFS Volume macOS                   91.4 GB    disk1s1
+   1:                APFS Volume macOS                   113.1 GB   disk1s1
    2:                APFS Volume Preboot                 44.4 MB    disk1s2
    3:                APFS Volume Recovery                512.4 MB   disk1s3
-   4:                APFS Volume VM                      2.1 GB     disk1s4
+   4:                APFS Volume VM                      3.2 GB     disk1s4
 
 /dev/disk2 (internal, physical):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
@@ -32,7 +32,7 @@ Target volume /Volumes/macOS on disk1 is APFS on physical store disk0s3
 ======================================================
 Backing up EFI files
 
-Backing up /Volumes/macOS/EFIROOTDIR/EFI folder to /Volumes/macOS/EFI-Backups/r4695/2018-10-10-22h01/EFI
+Backing up /Volumes/macOS/EFIROOTDIR/EFI folder to /Volumes/macOS/EFI-Backups/r4703/2018-10-30-20h18/EFI
 ======================================================
 Installing BootSectors/BootLoader
 
