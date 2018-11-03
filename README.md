@@ -1,5 +1,7 @@
 # ASRock H170 Pro4 Hackintosh
-Backup of my Hackintosh' s ESP Partition.
+Backup of my Hackintosh' s ESP Partition. Works on macOS Mojave 10.14.1
+
+![](rice.png)
 
 # My PC
 * CPU: **Intel Core i5-6600**
